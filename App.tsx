@@ -6,6 +6,10 @@ const App = () => {
     <View>
       <Text>Learn github commands ..</Text>
       <Text>Learn github merge command ..</Text>
+      <Text>
+        1. git reset --hard HEAD~1 delete top commit/push and if we delete we
+        need to push the commond is force git push origin main --force{' '}
+      </Text>
     </View>
   );
 };
