@@ -5,6 +5,7 @@ const App = () => {
   return (
     <View>
       <Text>Learn github commands ..</Text>
+      <Text>Learn github merge command ..</Text>
     </View>
   );
 };
