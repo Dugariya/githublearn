@@ -6,6 +6,8 @@ const App = () => {
     <View>
       <Text>Learn github commands ..</Text>
       <Text>Learn github merge command ..</Text>
+      <Text>Learn github merge command ..</Text>
+      <Text>Learn github merge command ..</Text>
     </View>
   );
 };
