@@ -15,7 +15,6 @@ const App = () => {
         need to push the commond is force git push origin main --force{' '}
       </Text>
 
-      <Text>Pr created</Text>
 
     </View>
   );
