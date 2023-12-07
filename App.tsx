@@ -1,22 +1,9 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
+import Home from './src/home/Home';
 
 const App = () => {
-  return (
-    <View>
-      <Text>Learn github commands ..</Text>
-      <Text>Learn github merge command ..</Text>
-
-      <Text>Learn github merge command ..</Text>
-      <Text>Learn github merge command ..</Text>
-
-      <Text>
-        1. git reset --hard HEAD~1 delete top commit/push and if we delete we
-        need to push the commond is force git push origin main --force{' '}
-      </Text>
-      <Text>Pr created</Text>
-    </View>
-  );
+  return <Home />;
 };
 
 export default App;
