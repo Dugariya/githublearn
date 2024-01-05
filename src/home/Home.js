@@ -39,7 +39,9 @@ const Home = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.top_text_style}>API call json server in local</Text>
+      <Text style={styles.top_text_style}>
+        API call json server in local git add .{' '}
+      </Text>
       <TouchableOpacity
         onPress={() => _addUser()}
         style={{
