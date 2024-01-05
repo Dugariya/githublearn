@@ -40,7 +40,7 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.top_text_style}>
-        API call json server in local git add .{' '}
+        API call json server in local git add . feature three new commit
       </Text>
       <TouchableOpacity
         onPress={() => _addUser()}
